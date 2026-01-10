@@ -79,8 +79,13 @@ nav .menu a:hover{
     color: azure;
 }
 
-  
-
+#about .about-container{
+    padding-top: 750px;
+    text-align: center;
+}  
+.about-heading{
+    
+}
 
 
 
