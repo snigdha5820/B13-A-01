@@ -5,7 +5,7 @@
 }
 header{
     background-color: aquamarine;
-    padding: 16px;
+    padding: 16px; 
     width: fill;
     height: 92px;
 }
@@ -42,4 +42,45 @@ nav .menu a:hover{
 .btn:hover{
     background: #2f855a;
 }
+
+#banner{
+    width: fill;
+    height: 674px;
+    margin-top: 10px;
+    justify-content: center;
+    padding: 160px 80px;
+    text-align: center;
+    background-image: url(images/hero-bg.png);
+}
+#banner .banner-1 p{
+    color: darkgreen;
+    background-color: aquamarine;
+    padding: 4px 12px;
+    display: inline-block;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+#banner .banner-content h1{
+    font-size: 45px;
+    font-weight: bold;
+    color: aqua;
+    margin-bottom: 8px;
+}
+
+#banner .banner-content p{
+    font-size: 16px;
+    color: whitesmoke;
+    line-height: 30px;
+    margin: 10px 10px;
+}
+#banner .banner-button button{
+    background: #2f855a;
+    padding: 4px 12px;
+    color: azure;
+}
+
+  
+
+
+
 
